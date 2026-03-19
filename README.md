@@ -34,6 +34,6 @@ Algunos de los proyectos clave que encontrarás aquí son:
 
 ## 🛠️ Sobre Mí
 
-Soy **Daniel**, un estudiante de licenciatura en informática apasionado por resolver problemas a través del código. Este repositorio es un reflejo de mi viaje y evolución.
+Soy **Enzo**, un estudiante de licenciatura en informática apasionado por resolver problemas a través del código. Este repositorio es un reflejo de mi viaje y evolución.
 
 ¡Gracias por visitar!
