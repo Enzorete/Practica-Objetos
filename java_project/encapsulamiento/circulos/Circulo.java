@@ -20,7 +20,7 @@ public class Circulo {
     }
 
     public Circulo() {
-        
+
     }
 
     public void pedirRadio(Scanner teclado) {
@@ -36,17 +36,17 @@ public class Circulo {
         this.radio = radio;
     }
 
-    public double diametro(){
+    public double diametro() {
 
         return radio * 2;
     }
 
-    public double perimetro(){
+    public double perimetro() {
 
         return radio * 2 * Math.PI;
     }
 
-    public double area(){
+    public double area() {
 
         double rr = radio * radio;
         return rr * Math.PI;
@@ -55,11 +55,10 @@ public class Circulo {
     @Override
     public String toString() {
         return String.format("%n==============OBJETO==============%n" +
-            "Radio : %.2f, diametro : %.3f, perimetro : %.4f, area : %.5f",
-            getRadio(),
-            diametro(),
-            perimetro(),
-            area()
-            );
+                "Radio : %.2f, diametro : %.3f, perimetro : %.4f, area : %.5f",
+                getRadio(),
+                diametro(),
+                perimetro(),
+                area());
     }
 }
